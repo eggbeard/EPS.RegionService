@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 1,
+    "Name": "Example Region",
+    "ZipCodes": [
+      {
+        "Start": 6033,
+        "End": 6033
+      },
+      {
+        "Start": 6108,
+        "End": 6110
+      },
+      {
+        "Start": 6115,
+        "End": 6115
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Around Glastonbury",
+    "ZipCodes": [
+      {
+        "Start": 6033,
+        "End": 6033
+      },
+      {
+        "Start": 6040,
+        "End": 6040
+      },
+      {
+        "Start": 6043,
+        "End": 6043
+      },
+      {
+        "Start": 6067,
+        "End": 6067
+      },
+      {
+        "Start": 6073,
+        "End": 6073
+      },
+      {
+        "Start": 6109,
+        "End": 6109
+      },
+      {
+        "Start": 6114,
+        "End": 6114
+      },
+      {
+        "Start": 6118,
+        "End": 6118
+      },
+      {
+        "Start": 6284,
+        "End": 6284
+      },
+      {
+        "Start": 6447,
+        "End": 6447
+      }
+    ]
+  }
+]
