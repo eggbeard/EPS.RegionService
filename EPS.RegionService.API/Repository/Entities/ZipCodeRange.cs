@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace EPS.RegionService.Repository.Entities
+﻿namespace EPS.RegionService.Repository.Entities
 {
     /// <summary>
     /// Represents a contiguous range of zip code ids

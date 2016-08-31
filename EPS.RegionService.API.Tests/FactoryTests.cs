@@ -1,9 +1,5 @@
-﻿using System;
+﻿using EPS.RegionService.Repository.Factories;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System.Collections.Generic;
-using EPS.RegionService.Repository.Entities;
-using System.Linq;
-using EPS.RegionService.Repository.Factories;
 
 namespace EPS.RegionService.API.Tests
 {
