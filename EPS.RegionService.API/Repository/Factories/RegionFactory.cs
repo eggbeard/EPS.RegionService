@@ -3,7 +3,7 @@
 namespace EPS.RegionService.Repository.Factories
 {
     /// <summary>
-    /// Convertys between Entity and DTO representations of a Region
+    /// Converts between Entity and DTO representations of a Region
     /// </summary>
     public class RegionFactory
     {
@@ -31,7 +31,7 @@ namespace EPS.RegionService.Repository.Factories
         }
 
         //Convert between DTO and Entities.
-        //May be netter in a business layer, but at the moment it is not clear what the
+        //May be better in a business layer, but at the moment it is not clear what the
         //most useful representation for the Business layer would be.
         public Entities.Region CreateRegion(DTO.Region region)
         {
